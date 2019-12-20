@@ -1,0 +1,33 @@
+ul {
+  text-align: left;
+}
+li {
+  text-align: left;
+  padding: 20px;
+}
+input {
+  float: left;
+  margin-right: 5px;
+  display: inline-block;
+}
+p {
+  width: 120px;
+  margin-right: 0px;
+  display: inline-block;
+}
+.saveButton {
+  width: 20px;
+  height: 20px;
+  margin: 0px;
+  display: inline-block;
+}
+.deleteButton {
+  width: 20px;
+  height: 20px;
+  margin: 0px;
+  display: inline-block;
+}
+.checked {
+  background-color: yellowgreen;
+  text-decoration: line-through;
+}
